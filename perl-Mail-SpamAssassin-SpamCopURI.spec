@@ -4,7 +4,6 @@
 #
 %define		pdir	Mail
 %define		pnam	SpamAssassin-SpamCopURI
-%include	/usr/lib/rpm/macros.perl
 Summary:	Mail::SpamAssassin::SpamCopURI - blacklist checking of URLs in email
 Name:		perl-Mail-SpamAssassin-SpamCopURI
 Version:	0.24
